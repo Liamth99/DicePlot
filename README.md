@@ -1,6 +1,6 @@
 # DicePlot CLI
 
-A simple CLI tool that diplays the probablility distributiong of dice rolls using Spectre.Console.
+A simple CLI tool that diplays the probability distribution of dice rolls using Spectre.Console.
 
 ## Usage
 ```bash
